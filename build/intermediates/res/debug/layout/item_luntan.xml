@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="TextView"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_vertical" />
+
+    <TextView
+        android:id="@+id/neirong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/title"
+        android:text="Large Text"
+        />
+
+    <TextView
+        android:id="@+id/huifu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/neirong"
+        android:layout_alignParentRight="true"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/shuliang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/neirong"
+        android:layout_toLeftOf="@+id/huifu"
+        android:text="回复：" />
+    
+</RelativeLayout><!-- From: file:/D:/新建文件夹%20(2)/Menu/res/layout/item_luntan.xml -->

@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemActivity" 
+    android:background="@drawable/background2">
+
+    <TextView
+        android:id="@+id/Text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@android:color/background_dark"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/Text_neirong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:textSize="25sp"
+         android:textColor="@android:color/background_dark"
+        android:layout_below="@id/Text_title"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/BT_huifu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/button_lt"
+        android:text="回复" />
+
+    <EditText
+        android:id="@+id/Ed_huifu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_dark"
+        android:hint="输入你想说的话。。"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@id/BT_huifu"
+        android:layout_toLeftOf="@id/BT_huifu"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+    <ListView
+        android:id="@+id/list_huifu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/Text_neirong"
+        android:layout_above="@id/Ed_huifu" >
+    </ListView>
+
+
+</RelativeLayout>
+<!-- From: file:/D:/新建文件夹%20(2)/Menu/res/layout/activity_item.xml -->

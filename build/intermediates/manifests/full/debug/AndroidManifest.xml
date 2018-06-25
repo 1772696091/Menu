@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.menu"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.menu.Denglu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.menu.MainActivity"
+            android:label="@string/title_activity_denglu" >
+        </activity>
+        <activity
+            android:name="com.example.menu.GeRenZhongXin"
+            android:label="@string/title_activity_ge_ren_zhong_xin" >
+        </activity>
+        <activity
+            android:name="bingli.BingLi"
+            android:label="@string/title_activity_bing_li" >
+        </activity>
+        <activity
+            android:name="tixing.TiXing"
+            android:label="@string/title_activity_ti_xing" >
+        </activity>
+        <activity
+            android:name="doctorzhuce.Yaodian"
+            android:label="@string/title_activity_docter_zhu_ce" >
+        </activity>
+        <activity
+            android:name="fankui.YiJianFanKui"
+            android:label="@string/title_activity_yi_jian_fan_kui" >
+        </activity>
+        <activity
+            android:name="gunayu.myAbout"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="bingli.XinjianBL"
+            android:label="@string/title_activity_xinjian_bl" >
+        </activity>
+        <activity
+            android:name="bingli.BingLixianshi"
+            android:label="@string/title_activity_bing_lixianshi" >
+        </activity>
+        <activity
+            android:name="tixing.ClockActivity"
+            android:label="@string/title_activity_clock" >
+        </activity>
+        <activity
+            android:name="com.example.menu.TingXing"
+            android:label="@string/title_activity_ting_xing" >
+        </activity>
+        <activity
+            android:name="viewpager.FabiaoActivity"
+            android:label="@string/title_activity_fabiao" >
+        </activity>
+        <activity
+            android:name="viewpager.ItemActivity"
+            android:label="@string/title_activity_item" >
+        </activity>
+        <activity
+            android:name="viewpager.ZixunActivity"
+            android:label="@string/title_activity_zixun" >
+        </activity>
+    </application>
+
+</manifest>

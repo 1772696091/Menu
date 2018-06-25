@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiaoliu.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_jiaoliu.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fabiao.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_fabiao.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_naoling.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_naoling.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_luntan.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_luntan.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zixun.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_zixun.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bing_lixianshi.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_bing_lixianshi.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_docter_zhu_ce.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_docter_zhu_ce.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiaoliu2.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_jiaoliu2.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ti_xing.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_ti_xing.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bing_li.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_bing_li.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\fragementluntan.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\fragementluntan.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_bingli.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_bingli.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_yaodian.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_yaodian.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xinjian_bl.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_xinjian_bl.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\fragementzixun.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\fragementzixun.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yi_jian_fan_kui.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_yi_jian_fan_kui.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_zixun.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_zixun.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_denglu.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_denglu.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clock.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_clock.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\item_huifu.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\item_huifu.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ge_ren_zhong_xin.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\activity_ge_ren_zhong_xin.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\layout\\fragementwebview.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\layout\\fragementwebview.xml"
+    }
+]

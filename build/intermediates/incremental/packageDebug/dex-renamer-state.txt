@@ -1,0 +1,7 @@
+#Mon Jun 25 18:25:57 CST 2018
+base.0=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c36b6815f928484a2475ec236d13624cb7e158ea
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7a631fdcc74044923056773d5c6105a0600943e6\\classes.dex
+base.1=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7a631fdcc74044923056773d5c6105a0600943e6
+file.0=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c36b6815f928484a2475ec236d13624cb7e158ea\\classes.dex

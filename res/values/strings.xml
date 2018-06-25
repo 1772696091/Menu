@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">家庭医生</string>
+    <string name="action_settings">制作By宋先生</string>
+    <string name="hello_world">Settings</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="title_activity_denglu">家庭医生</string>
+    <string name="title_activity_ge_ren_zhong_xin">个人中心</string>
+    <string name="title_activity_bing_li">手机病例</string>
+    <string name="title_activity_ti_xing">用药提醒</string>
+    <string name="title_activity_docter_zhu_ce">附近药店</string>
+    <string name="title_activity_yi_jian_fan_kui">意见反馈</string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_xinjian_bl">XinjianBL</string>
+    <string name="title_activity_bing_lixianshi">BingLixianshi</string>
+    <string name="title_activity_clock">ClockActivity</string>
+    <string name="title_activity_ting_xing">TingXing</string>
+    <string name="title_activity_fabiao">Fabiao</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_zixun">ZixunActivity</string>
+
+</resources>

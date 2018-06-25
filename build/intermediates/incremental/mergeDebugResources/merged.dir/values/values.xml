@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">制作By宋先生</string>
+    <string name="app_name">家庭医生</string>
+    <string name="hello_world">Settings</string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_bing_li">手机病例</string>
+    <string name="title_activity_bing_lixianshi">BingLixianshi</string>
+    <string name="title_activity_clock">ClockActivity</string>
+    <string name="title_activity_denglu">家庭医生</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="title_activity_docter_zhu_ce">附近药店</string>
+    <string name="title_activity_fabiao">Fabiao</string>
+    <string name="title_activity_ge_ren_zhong_xin">个人中心</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_ti_xing">用药提醒</string>
+    <string name="title_activity_ting_xing">TingXing</string>
+    <string name="title_activity_xinjian_bl">XinjianBL</string>
+    <string name="title_activity_yi_jian_fan_kui">意见反馈</string>
+    <string name="title_activity_zixun">ZixunActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme_dialog" parent="@android:style/Theme.Dialog">
+		<item name="android:windowBackground">@drawable/dialog_background</item><!--背景--> 
+		<item name="android:windowNoTitle">true</item><!--无标题-->
+		<item name="android:windowFrame">@null</item><!--边框-->  
+		<item name="android:windowIsTranslucent">true</item><!--透明--> 
+		<item name="android:windowIsFloating">true</item><!--是否浮现在activity之上--> 
+		<item name="android:backgroundDimEnabled">false</item><!--此属性可以翻译为 是否允许对话框的背景变暗--> 
+	</style>
+    <style name="tab_menu_item">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:layout_height">match_parent</item>
+    <item name="android:background">@drawable/ic_background</item>
+    <item name="android:button">@null</item>
+    <item name="android:gravity">center</item>
+    <item name="android:paddingTop">3dp</item>
+    <item name="android:textSize">18sp</item>
+</style>
+</resources>

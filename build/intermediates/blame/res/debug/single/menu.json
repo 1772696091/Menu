@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\xinjian_bl.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\xinjian_bl.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\item.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\item.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\docter_zhu_ce.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\docter_zhu_ce.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\fabiao.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\fabiao.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\denglu.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\denglu.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\ti_xing.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\ti_xing.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\zixun.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\zixun.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\dialog.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\dialog.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\clock.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\clock.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\ting_xing.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\ting_xing.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\ge_ren_zhong_xin.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\ge_ren_zhong_xin.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\bing_lixianshi.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\bing_lixianshi.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\yi_jian_fan_kui.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\yi_jian_fan_kui.xml"
+    },
+    {
+        "merged": "D:\\myxiangmu\\Menu\\build\\intermediates\\res\\merged\\debug\\menu\\bing_li.xml",
+        "source": "D:\\myxiangmu\\Menu\\res\\menu\\bing_li.xml"
+    }
+]

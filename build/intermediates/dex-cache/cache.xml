@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\myxiangmu\Menu\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\myxiangmu\Menu\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_07234ba63989035eb8cf859d9438737b722e6fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myxiangmu\Menu\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\myxiangmu\Menu\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7a631fdcc74044923056773d5c6105a0600943e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myxiangmu\Menu\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\myxiangmu\Menu\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.7_88ca581a13ebc0d0c6e89a12bcdec4805a102162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myxiangmu\Menu\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37b3aeaf62656d8d61b68323c1d1398a434779f5">
+        <dex dex="D:\myxiangmu\Menu\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c36b6815f928484a2475ec236d13624cb7e158ea\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background3"
+    tools:context=".ZixunActivity" >
+
+    <TextView
+        android:id="@+id/Tx_doctorname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:textColor="@android:color/background_dark"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <EditText
+        android:id="@+id/ed_jiaoliu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:hint="说点啥吧"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+    
+    
+    <ListView
+        android:id="@+id/list_jiaoliu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@id/ed_jiaoliu"
+        android:layout_below="@+id/Tx_doctorname" >
+    </ListView>
+
+    <Button
+        android:id="@+id/bt_jiaoliu"
+         style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/button_lt"
+        android:text="发送" />
+
+
+</RelativeLayout>
+<!-- From: file:/D:/新建文件夹%20(2)/Menu/res/layout/activity_zixun.xml -->

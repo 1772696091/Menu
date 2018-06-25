@@ -1,0 +1,160 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#DBDB70"
+     >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_weight="1"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="患者姓名：" 
+            android:textColor="@android:color/background_dark"/>
+
+        <TextView
+            android:id="@+id/XSname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/background_dark"
+             >
+
+            <requestFocus />
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="问诊类型：" 
+            android:textColor="@android:color/background_dark"/>
+
+         <TextView
+            android:id="@+id/XSleixing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/background_dark"
+             >
+
+            <requestFocus />
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="问诊医院：" 
+            android:textColor="@android:color/background_dark"/>
+
+         <TextView
+            android:id="@+id/XSyiyuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/background_dark"
+             >
+
+            <requestFocus />
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="问诊科室："
+            android:textColor="@android:color/background_dark" />
+
+         <TextView
+            android:id="@+id/XSkeshi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/background_dark"
+             >
+
+            <requestFocus />
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="问诊医生：" 
+            android:textColor="@android:color/background_dark"/>
+
+         <TextView
+            android:id="@+id/XSyisheng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/background_dark"
+             >
+
+            <requestFocus />
+        </TextView>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="病情描述："
+        android:layout_weight="1"
+        android:textColor="@android:color/background_dark" />
+
+     <TextView
+        android:id="@+id/XSjutibingqing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:ems="10"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="医生建议："
+        android:layout_weight="1"
+        android:textColor="@android:color/background_dark" />
+
+     <TextView
+        android:id="@+id/XSyishnegjianyi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_weight="2"
+        android:textColor="@android:color/background_dark"/>
+    </LinearLayout>
+<!-- From: file:/D:/新建文件夹%20(2)/Menu/res/layout/activity_bing_lixianshi.xml -->

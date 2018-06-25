@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="170dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+  
+    <TextView  
+        android:id="@+id/bingli"  
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"  
+        android:gravity="center"  
+        android:padding="10dp"  
+        android:textSize="20sp"
+        android:text="手机病例" 
+         android:textColor="#ff0000"
+        android:textStyle="bold"
+          android:clickable="true"/>  
+  
+    <View  
+        android:layout_width="match_parent"  
+        android:layout_height="1dp"
+        android:background="#00F5FF"   />  
+  
+    <TextView  
+        android:id="@+id/tixing"  
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"  
+        android:gravity="center"  
+        android:padding="10dp"  
+        android:textSize="20sp"
+        android:text="用药提醒" 
+         android:textColor="#ff0000"
+        android:textStyle="bold"
+          android:clickable="true"/>  
+  
+    <View  
+        android:layout_width="match_parent"  
+        android:layout_height="1dp" 
+        android:background="#00F5FF"   />  
+  
+    <TextView  
+        android:id="@+id/doctor"  
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"   
+        android:gravity="center"  
+        android:padding="10dp"  
+        android:textSize="20sp"
+        android:text="附近药店"
+         android:textColor="#ff0000"
+        android:textStyle="bold"
+          android:clickable="true" />  
+        
+    <View  
+        android:layout_width="match_parent"  
+        android:layout_height="1dp" 
+        android:background="#00F5FF"   />  
+  
+    <TextView  
+        android:id="@+id/returnme"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"   
+        android:gravity="center"  
+        android:padding="10dp"  
+        android:textSize="20sp"
+        android:text="意见反馈" 
+         android:textColor="#ff0000"
+        android:textStyle="bold"
+          android:clickable="true"/>  
+        
+    <View  
+        android:layout_width="match_parent"  
+        android:layout_height="1dp"
+        android:background="#00F5FF"    />  
+        
+    <TextView  
+        android:id="@+id/about"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"   
+        android:gravity="center"  
+        android:padding="10dp"  
+        android:textSize="20sp"
+        android:text="关于我们" 
+         android:textColor="#ff0000"
+        android:textStyle="bold"
+          android:clickable="true"/>  
+        
+</LinearLayout><!-- From: file:/D:/新建文件夹%20(2)/Menu/res/layout/activity_dialog.xml -->

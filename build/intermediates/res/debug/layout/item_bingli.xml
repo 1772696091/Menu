@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:orientation="horizontal"
+        android:background="#DBDB70" 
+         >
+        <LinearLayout 
+            android:layout_width="0dp"
+        	android:layout_height="86dp"
+        	android:orientation="vertical"
+        	android:layout_weight="9">
+
+		        <TextView
+		            android:id="@+id/textView1"
+		            android:layout_width="match_parent"
+		            android:layout_height="0dp"
+		            android:layout_weight="2"
+		            android:text="病例"
+		            android:textSize="24sp"
+		            android:gravity="center"
+		            android:textStyle="bold" 
+		            android:textColor="@android:color/background_dark"/>
+			
+		        <TextView
+		            android:id="@+id/textView2"
+		            android:layout_width="match_parent"
+		            android:layout_height="0dp"
+		            android:layout_weight="1"
+		            android:text="姓名:" 
+		            android:textStyle="bold"
+		            android:textColor="@android:color/background_dark"/>
+		
+		        <TextView
+		            android:id="@+id/textView3"
+		            android:layout_width="match_parent"
+		            android:layout_height="0dp"
+		            android:layout_weight="1"
+		            android:text="类型:"
+		            android:textStyle="bold"
+		            android:textColor="@android:color/background_dark" />
+		        <LinearLayout 
+		            android:layout_width="match_parent"
+		            android:layout_height="0dp"
+		        	android:layout_weight="1"
+		        	android:orientation="horizontal"
+		        	>
+	
+		            <TextView
+		                android:id="@+id/textView4"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="xx医院"
+		                android:layout_weight="1"
+		                android:textStyle="bold"
+		                android:textColor="@android:color/background_dark"
+		                 />
+		
+		            <TextView
+		                android:id="@+id/textView5"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="xx科室"
+		                android:paddingLeft="10dp"
+		                android:layout_weight="1"
+		                android:textStyle="bold"
+		                android:textColor="@android:color/background_dark" />
+		
+		            <TextView
+		                android:id="@+id/textView6"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="xx医生" 
+		                android:paddingLeft="10dp"
+		                android:layout_weight="1"
+		                android:textStyle="bold"
+		                android:textColor="@android:color/background_dark"/>
+
+        </LinearLayout>
+       
+    </LinearLayout>
+    <LinearLayout   
+       	android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="match_parent" 
+        android:orientation="vertical">
+         <Button 
+            android:layout_width="match_parent"
+       		android:layout_weight="1"
+        	android:layout_height="0dp" 
+            android:id="@+id/look" 
+            android:text="查看"
+            android:background="@drawable/button_lt"
+            android:textStyle="bold"
+	        android:textColor="@android:color/background_dark"/>
+          <Button 
+            android:layout_width="match_parent"
+       		android:layout_weight="1"
+        	android:layout_height="0dp" 
+            android:id="@+id/delete" 
+            android:text="删除"
+            android:background="@drawable/button_lt"
+            android:textStyle="bold"
+	        android:textColor="@android:color/background_dark"/>
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/D:/新建文件夹%20(2)/Menu/res/layout/item_bingli.xml -->

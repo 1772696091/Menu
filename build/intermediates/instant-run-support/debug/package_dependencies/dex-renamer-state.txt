@@ -1,0 +1,7 @@
+#Mon Jun 25 18:25:48 CST 2018
+base.0=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson-2.7_88ca581a13ebc0d0c6e89a12bcdec4805a102162
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_07234ba63989035eb8cf859d9438737b722e6fd4\\classes.dex
+base.1=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_07234ba63989035eb8cf859d9438737b722e6fd4
+file.0=D\:\\myxiangmu\\Menu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson-2.7_88ca581a13ebc0d0c6e89a12bcdec4805a102162\\classes.dex
